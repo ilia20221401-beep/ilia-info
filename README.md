@@ -45,6 +45,4 @@ Status
 
 License
 
-MIT
-
 MIT License
