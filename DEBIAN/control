@@ -1,0 +1,8 @@
+Package: ilia-info
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Ilia
+Dependes: python3
+Description: Simple Linux system information tool
